@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 from keras.models import load_model
 import tensorflow as tf
-import keras
+
 from prediction import get_prediction
 
 
